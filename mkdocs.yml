@@ -1,7 +1,7 @@
 site_name: IBM Cloud Automation
 site_url: https://ibm-cloud-automation.github.io
 site_author: Raimond van Stijn
-repo_name: ibm-cloud-automation.github.io
+repo_name: ibm-cloud-automation/ibm-cloud-automation.github.io
 repo_url: https://github.com/ibm-cloud-automation/ibm-cloud-automation.github.io.git
 theme:
   name: material

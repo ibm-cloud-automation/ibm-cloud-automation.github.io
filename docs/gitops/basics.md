@@ -97,7 +97,7 @@ Copy and paste the commands below
       name: openshift-pipelines-operator
       namespace: openshift-operators
     spec:
-      channel: stable
+      channel: latest
       name: openshift-pipelines-operator-rh
       source: redhat-operators
       sourceNamespace: openshift-marketplace
